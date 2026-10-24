@@ -1,0 +1,45 @@
+{
+  "game": "Left! Left! LEFT! Playtest",
+  "appid": 5425110,
+  "steam_buildid": "26172243",
+  "unity_version": "6000.3.16f1",
+  "platform": "Windows x64",
+  "tested_at": "2026-10-24",
+  "files": {
+    "level0": {
+      "original_sha256": "77707944d5c265baf1705804c1e69d7c16b890254286026c3ed8cef3859b55e5",
+      "original_size": 209432,
+      "patched_sha256": "c9dec9be900398c73fdbee3c982a3b204635fc18bfc64ea10b9327df84770130",
+      "patched_size": 205784
+    },
+    "level1": {
+      "original_sha256": "c7e6b5a67c3af64564dd79bb87795c1f4bc8dd5ecaa43cde71430b8e82acfef4",
+      "original_size": 5722620,
+      "patched_sha256": "57c19828cb0b754b44af91e7ab0a710ea863914313a1ee0d1ecf26dc9c0306cc",
+      "patched_size": 5484616
+    },
+    "level2": {
+      "original_sha256": "5d71b272375fa0ffd624740bacd948d9509c40a9d3fea39d4f51aad24611135a",
+      "original_size": 25577164,
+      "patched_sha256": "17d6fc4ab17c169a62c2b689a5131fa749eb072e6a526c012d59c84ad29daecf",
+      "patched_size": 24753392
+    },
+    "level3": {
+      "original_sha256": "3bc2af506ee0124f8385e62021e17956cf60f7c4ec470bffb1421d0d08e2e89c",
+      "original_size": 11766636,
+      "patched_sha256": "1b2a9429052bc1f7fa6aba88e04dd072bfb79565c4c6811e8a3699e6973fc0b1",
+      "patched_size": 11384240
+    },
+    "sharedassets0.assets": {
+      "original_sha256": "d325940f612e82559315525c69fa3ca36ad99e7eb99758d579d45c2664044c9d",
+      "original_size": 334992,
+      "patched_sha256": "dc73d6ef2572ad9774a72b4057ba2635e636337b961513e787a254d145dd011b",
+      "patched_size": 334864
+    },
+    "resources.assets": {
+      "original_sha256": "ad1a1f2eb2294c54c18dc84209c256b09e90dd741d9f70c0069b208eec7967bb",
+      "original_size": 1481112,
+      "untouched": true
+    }
+  }
+}
